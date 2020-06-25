@@ -8,4 +8,4 @@ The steering wheel angle, the accelerator and the brake pedal pressures represen
 
 The dataset consists in two zip files: Driver_commands_and_speed.zip and Videos.zip. Each of these zip files contains 36 npy files, with numpy arrays. The files with the videos, in the Videos.zip, are named XtreinoXX.npy and the files with the driver´s commands and the vehicle speed, in the Driver_commands_and_speed, are named YTreinoXX.npy, where XX is a number varying form 0 to 35. The files XTreinoXX.npy and YTreinoXX.npy with the same number correspondes to a pair video-driver´s commands and speed. The imagens are in RGB fomat and have 150x240x3 pixels.
 
-The Driver_commands_and_speed.zip can be download from here and because the Videos.zip is too large it can be downloaded from
+The Driver_commands_and_speed.zip file can be download from here and because the Videos.zip is too large (about 9.5 GB) it can be downloaded from
